@@ -43,7 +43,7 @@
 ## 📌 Menu
 
 - [Descrição](#📜-descrição)
-- [Tecnoligias](#🖥️-tecnoligias)
+- [Tecnologias](#🖥️-tecnoligias)
 - [Estrutura do Projeto](#🎯-estrutura-do-projeto)
 - [Como Contribuir](#🎁-como-contribuir)
 - [Licença](#🔓-licença)
@@ -59,7 +59,7 @@ Conteúdo:
 
 - Esta seção destaca os três módulos disponíveis na trilha, desde os fundamentos do CSS, estilizações básicas do CSS e unidade de medidas em CSS. Três modulos recheados de dicas e truques.
 
-## 🖥️ Tecnoligias
+## 🖥️ Tecnologias
 
 **IDE:**
 
