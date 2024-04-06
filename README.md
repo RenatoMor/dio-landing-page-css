@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/RenatoMor/repo_img/main/img/220.png" alt="HAR Logo" width="720px" height="110px">
 </p>
 
-<h1 align="center">Formação GitHub Certification</h1>
+<h1 align="center">Formação CSS Web Developer</h1>
 
 <h2 align="center">Projeto: Utilizando as Ferramentas do Github para Solucionar Algoritmos em Python</h2>
 
