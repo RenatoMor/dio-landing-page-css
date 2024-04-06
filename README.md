@@ -4,7 +4,7 @@
 
 <h1 align="center">Formação CSS Web Developer</h1>
 
-<h2 align="center">Projeto: Utilizando as Ferramentas do Github para Solucionar Algoritmos em Python</h2>
+<h2 align="center">Projeto: Landing Page com CSS e HTML</h2>
 
 <h5 align="center"> I <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="20" height="20" /> Back-End Development!</h5>
 
