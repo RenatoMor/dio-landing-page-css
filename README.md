@@ -42,12 +42,12 @@
 
 ## 📌 Menu
 
-- [Descrição](#-descrição)
-- [Programas](#-programas)
-- [Propósito Central do Projeto](#-propósito-central-do-projeto)
-- [Como Contribuir](#-como-contribuir)
-- [Licença](#-licença)
-- [Agradecimentos](#-agradecimentos)
+- [Descrição](#📜-descrição)
+- [Tecnoligias](#🖥️-tecnoligias)
+- [Estrutura do Projeto](#🎯-estrutura-do-projeto)
+- [Como Contribuir](#🎁-como-contribuir)
+- [Licença](#🔓-licença)
+- [Agradecimentos](#🎉-agradecimentos)
 
 ## 📜 Descrição
 
@@ -59,7 +59,7 @@ Conteúdo:
 
 - Esta seção destaca os três módulos disponíveis na trilha, desde os fundamentos do CSS, estilizações básicas do CSS e unidade de medidas em CSS. Três modulos recheados de dicas e truques.
 
-## 🖥️ Tecnoligias utilizadas
+## 🖥️ Tecnoligias
 
 **IDE:**
 
